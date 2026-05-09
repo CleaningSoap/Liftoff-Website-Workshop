@@ -1,8 +1,11 @@
 img {
-    width: 200px;
+    width: 600px;
 }
 body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     background-color:chartreuse;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgba(2, 19, 254, 0.901);
 }
